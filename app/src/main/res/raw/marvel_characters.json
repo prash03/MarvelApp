@@ -1,0 +1,463 @@
+{
+  "data": {
+    "results": [
+      {
+        "id": 1,
+        "name": "Spider-Man",
+        "description": "Bitten by a radioactive spider, Peter Parker gained the proportional strength, speed, and agility of an arachnid.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/620-spider-man",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/620-spider-man.jpg", "name": "The Amazing Spider-Man (1963) #1" },
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/620-spider-man.jpg", "name": "Spider-Man: Blue" },
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/620-spider-man.jpg", "name": "Ultimate Spider-Man #1" }
+          ]
+        },
+        "series": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/620-spider-man.jpg", "name": "The Amazing Spider-Man" },
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/620-spider-man.jpg", "name": "Spectacular Spider-Man" }
+          ]
+        },
+        "stories": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/620-spider-man.jpg", "name": "Origin Story" }
+          ]
+        },
+        "events": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/620-spider-man.jpg", "name": "Spider-Verse" },
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/620-spider-man.jpg", "name": "Civil War" }
+          ]
+        },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/spider-man-peter-parker" },
+          { "type": "wiki", "url": "https://marvel.fandom.com/wiki/Peter_Parker_(Earth-616)" },
+          { "type": "comiclink", "url": "https://www.marvel.com/comics/characters/1009610/spider-man_peter_parker" }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Captain America",
+        "description": "Recipient of the Super-Soldier serum, World War II hero Steve Rogers fights for American ideals as one of the world’s mightiest heroes.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/149-captain-america",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/149-captain-america.jpg", "name": "Captain America (1968) #100" },
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/149-captain-america.jpg", "name": "Winter Soldier #1" }
+          ]
+        },
+        "series": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/149-captain-america.jpg", "name": "Captain America" }
+          ]
+        },
+        "stories": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/149-captain-america.jpg", "name": "The First Avenger" }
+          ]
+        },
+        "events": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/149-captain-america.jpg", "name": "Infinity War" }
+          ]
+        },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/captain-america-steve-rogers" },
+          { "type": "wiki", "url": "https://marvel.fandom.com/wiki/Steven_Rogers_(Earth-616)" }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Iron Man",
+        "description": "Wounded, captured and forced to build a weapon by his enemies, billionaire industrialist Tony Stark instead created an advanced suit of armor to save his life and escape captivity.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/346-iron-man",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/346-iron-man.jpg", "name": "Iron Man (1968) #1" },
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/346-iron-man.jpg", "name": "Iron Man: Extremis" }
+          ]
+        },
+        "series": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/346-iron-man.jpg", "name": "Iron Man" }
+          ]
+        },
+        "stories": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/346-iron-man.jpg", "name": "Stark Industries" }
+          ]
+        },
+        "events": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/346-iron-man.jpg", "name": "Civil War" }
+          ]
+        },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/iron-man-tony-stark" }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Thor",
+        "description": "The God of Thunder, Thor wields the enchanted hammer Mjolnir and is the protector of both Asgard and Earth.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/659-thor",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/659-thor.jpg", "name": "Journey into Mystery #83" }
+          ]
+        },
+        "series": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/659-thor.jpg", "name": "Thor" }
+          ]
+        },
+        "stories": { "items": [] },
+        "events": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/659-thor.jpg", "name": "Ragnarok" }
+          ]
+        },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/thor-thor-odinson" }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Hulk",
+        "description": "After being bombarded with a massive dose of gamma radiation while saving a young man's life during a test bomb explosion, Dr. Bruce Banner was transformed into the Incredible Hulk.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/332-hulk",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/332-hulk.jpg", "name": "The Incredible Hulk #1" }
+          ]
+        },
+        "series": { "items": [] },
+        "stories": { "items": [] },
+        "events": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/332-hulk.jpg", "name": "World War Hulk" }
+          ]
+        },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/hulk-bruce-banner" }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Black Widow",
+        "description": "A former KGB assassin, Natasha Romanoff is one of the world's most talented spies and assassins and a core member of the Avengers.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/107-black-widow",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/107-black-widow.jpg", "name": "Tales of Suspense #52" }
+          ]
+        },
+        "series": { "items": [] },
+        "stories": { "items": [] },
+        "events": { "items": [] },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/black-widow-natasha-romanoff" }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Doctor Strange",
+        "description": "Once a highly successful yet arrogant neurosurgeon, Stephen Strange's life changed after a car accident robbed him of the use of his hands.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/222-doctor-strange",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/222-doctor-strange.jpg", "name": "Strange Tales #110" }
+          ]
+        },
+        "series": { "items": [] },
+        "stories": { "items": [] },
+        "events": { "items": [] },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/doctor-strange-stephen-strange" }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Black Panther",
+        "description": "T'Challa is the king of Wakanda, an isolationist African nation with highly advanced technology.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/106-black-panther",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/106-black-panther.jpg", "name": "Fantastic Four #52" }
+          ]
+        },
+        "series": { "items": [] },
+        "stories": { "items": [] },
+        "events": { "items": [] },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/black-panther-t-challa" }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Ant-Man",
+        "description": "Scott Lang is a former thief who gained the ability to shrink in size but increase in strength.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/30-ant-man",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/30-ant-man.jpg", "name": "The Avengers #181" }
+          ]
+        },
+        "series": { "items": [] },
+        "stories": { "items": [] },
+        "events": { "items": [] },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/ant-man-scott-lang" }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Captain Marvel",
+        "description": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/156-captain-marvel",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/156-captain-marvel.jpg", "name": "Ms. Marvel #1" }
+          ]
+        },
+        "series": { "items": [] },
+        "stories": { "items": [] },
+        "events": { "items": [] },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/captain-marvel-carol-danvers" }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Scarlet Witch",
+        "description": "Wanda Maximoff is a powerful mutant with the ability to manipulate probability and warp reality.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/579-scarlet-witch",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/579-scarlet-witch.jpg", "name": "X-Men #4" }
+          ]
+        },
+        "series": { "items": [] },
+        "stories": { "items": [] },
+        "events": { "items": [] },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/scarlet-witch-wanda-maximoff" }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Vision",
+        "description": "The Vision is an android who possesses a synthetic body made of vibranium.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/697-vision",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/697-vision.jpg", "name": "The Avengers #57" }
+          ]
+        },
+        "series": { "items": [] },
+        "stories": { "items": [] },
+        "events": { "items": [] },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/vision" }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Falcon",
+        "description": "Sam Wilson is a skilled pilot and combatant who uses a specialized flight suit with mechanical wings.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/251-falcon",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/251-falcon.jpg", "name": "Captain America #117" }
+          ]
+        },
+        "series": { "items": [] },
+        "stories": { "items": [] },
+        "events": { "items": [] },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/falcon-sam-wilson" }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Winter Soldier",
+        "description": "Bucky Barnes is a highly trained assassin and former companion of Captain America.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/714-winter-soldier",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/714-winter-soldier.jpg", "name": "Captain America #1" }
+          ]
+        },
+        "series": { "items": [] },
+        "stories": { "items": [] },
+        "events": { "items": [] },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/winter-soldier-bucky-barnes" }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Star-Lord",
+        "description": "Peter Quill is the leader of the Guardians of the Galaxy and a skilled pilot and marksman.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/630-star-lord",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/630-star-lord.jpg", "name": "Marvel Preview #4" }
+          ]
+        },
+        "series": { "items": [] },
+        "stories": { "items": [] },
+        "events": { "items": [] },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/star-lord-peter-quill" }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Gamora",
+        "description": "Gamora is a former assassin and member of the Guardians of the Galaxy.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/275-gamora",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/275-gamora.jpg", "name": "Strange Tales #180" }
+          ]
+        },
+        "series": { "items": [] },
+        "stories": { "items": [] },
+        "events": { "items": [] },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/gamora" }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Groot",
+        "description": "Groot is a sentient tree-like creature and member of the Guardians of the Galaxy.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/303-groot",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/303-groot.jpg", "name": "Tales to Astonish #13" }
+          ]
+        },
+        "series": { "items": [] },
+        "stories": { "items": [] },
+        "events": { "items": [] },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/groot" }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Rocket Raccoon",
+        "description": "Rocket is a genetically engineered raccoon and member of the Guardians of the Galaxy.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/566-rocket-raccoon",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/566-rocket-raccoon.jpg", "name": "Marvel Preview #7" }
+          ]
+        },
+        "series": { "items": [] },
+        "stories": { "items": [] },
+        "events": { "items": [] },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/rocket-raccoon" }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Drax the Destroyer",
+        "description": "Drax is a powerful warrior and member of the Guardians of the Galaxy.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/232-drax-the-destroyer",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/232-drax-the-destroyer.jpg", "name": "Iron Man #55" }
+          ]
+        },
+        "series": { "items": [] },
+        "stories": { "items": [] },
+        "events": { "items": [] },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/drax-the-destroyer" }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Hawkeye",
+        "description": "Clint Barton is a master archer and skilled combatant.",
+        "thumbnail": {
+          "path": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/md/313-hawkeye",
+          "extension": "jpg"
+        },
+        "comics": {
+          "items": [
+            { "resourceURI": "https://raw.githubusercontent.com/akabab/superhero-api/0.3.0/api/images/sm/313-hawkeye.jpg", "name": "Tales of Suspense #57" }
+          ]
+        },
+        "series": { "items": [] },
+        "stories": { "items": [] },
+        "events": { "items": [] },
+        "urls": [
+          { "type": "detail", "url": "https://www.marvel.com/characters/hawkeye-clint-barton" }
+        ]
+      }
+    ]
+  }
+}

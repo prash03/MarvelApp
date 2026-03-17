@@ -1,0 +1,15 @@
+# Built artifacts
+bin/
+gen/
+out/
+build/
+.gradle/
+app/build/
+
+# IDE Settings
+.idea/
+*.iml
+.DS_Store
+
+# Local configuration
+local.properties
