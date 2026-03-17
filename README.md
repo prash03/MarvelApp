@@ -1,4 +1,3 @@
-
 # Marvel Characters App (Jetpack Compose)
 
 Android application that displays Marvel characters using the Marvel Developer API.
@@ -6,15 +5,13 @@ Android application that displays Marvel characters using the Marvel Developer A
 ## Tech Stack
 
 - Kotlin
+
 - Jetpack Compose
 - MVVM Architecture
 - Retrofit
 - Coroutines + Flow
 - Navigation Compose
 - Coil
-
-## Features
-
 - Character list screen
 - Pagination using LazyColumn
 - Character detail screen
@@ -69,4 +66,12 @@ When user reaches last item → next page loads.
 ## Author
 
 Prashant Kumar
+
+<img width="1080" height="2340" alt="Screenshot_1773739166" src="https://github.com/user-attachments/assets/01483bb8-caba-49ef-a151-f17a8aeba166" />
+<img width="1080" height="2340" alt="Screenshot_1773739176" src="https://github.com/user-attachments/assets/be5f04ed-ca89-4673-9313-0ff27b038d95" />
+<img width="1080" height="2340" alt="Screenshot_1773739181" src="https://github.com/user-attachments/assets/87942ca6-120b-44b8-a6d4-6f70be181113" />
+
+
+
+
 
